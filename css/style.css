@@ -1,3 +1,21 @@
 .navbar{
+    background-color:mistyrose;
+}
+
+.quem-somos{
+    background-color: magenta;
+}
+
+.parceiros{
+    background-color: navajowhite;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer{
     background-color: black;
+    color: white;
 }
